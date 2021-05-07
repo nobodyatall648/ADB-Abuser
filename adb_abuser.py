@@ -14,7 +14,9 @@ def banner():
   / _ \  | |) || _ \   / _ \  | '_ \| || |(_-</ -_) | '_| 
  /_/ \_\ |___/ |___/  /_/ \_\ |_.__/ \_,_|/__/\___| |_|           
 
-            Developer: NobodyAtall                                                              
+            Developer: NobodyAtall   
+            YouTube  : https://www.youtube.com/c/nobodyatall
+            GitHub   : https://github.com/nobodyatall648                                                           
     """)
 
 def help():
