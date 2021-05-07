@@ -3,7 +3,10 @@
 
  ### WARNING!! More Features will be addon, stay tune.
 
- ## Help
+  ## Image
+![alt text](images/scriptUsage.png)
+
+ ## Help Menu
  ```
  connect         connect remote ADB via IP (eg: connect "192.168.0.144:5555")
  showdev         show ADB device list
@@ -16,5 +19,3 @@
  exit            exit ADB Abuser 
  ```
 
- ## Image
-![alt text](images/scriptUsage.png)
