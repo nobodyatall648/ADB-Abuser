@@ -1,6 +1,20 @@
 # ADB Abuser
- Python script to abuse the ADB to perform several interesting stuff
+ Python script to abuse the ADB 
 
- ### Script On The Way
+ ### More Features will be addon, stay tune.
 
- After my final exam weeks, I'll start the development of the Android Debug Bridge abusing script. 
+ ## Help
+ ```
+ connect         connect remote ADB via IP (eg: connect "192.168.0.144:5555")
+ showdev         show ADB device list
+ seldev          select the ADB ID (eg: seldev 1AM761214LB616NV / seldev "192.168.0.144:5555")
+ showseldev      show selected ADB ID
+ shell           spawn ADB shell      
+ ......
+ disconnect      disconnect all connected devices
+ help            show help menu
+ exit            exit ADB Abuser 
+ ```
+
+ ## Image
+![alt text](images/scriptUsage.png)
