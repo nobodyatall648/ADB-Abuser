@@ -1,5 +1,5 @@
 # ADB Abuser
- ADB Abuser make ADB pentesting life easier
+ ADB Abuser make Android ADB pentesting life easier
 
  ### WARNING!! More Features will be addon, stay tune.
 
