@@ -1,5 +1,5 @@
 # ADB Abuser
- Python script to abuse the ADB 
+ ADB Abuser make ADB pentesting life easier
 
  ### WARNING!! More Features will be addon, stay tune.
 
