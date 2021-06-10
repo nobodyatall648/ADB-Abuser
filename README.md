@@ -1,7 +1,7 @@
 # ADB Abuser
  ADB Abuser make Android ADB pentesting life easier
 
- ### WARNING!! More Features will be addon, stay tune.
+ ### WARNING!! More Features will be addon, I'll update it once I manage to find my free time.
 
   ## Image
 ![alt text](images/scriptUsage.png)
